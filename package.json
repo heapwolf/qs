@@ -1,0 +1,19 @@
+{
+  "name": "qs",
+  "version": "1.0.0",
+  "description": "A minimal query selector helper library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxoht/qs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hxoht/qs/issues"
+  },
+  "homepage": "https://github.com/hxoht/qs#readme"
+}
