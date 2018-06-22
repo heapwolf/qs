@@ -22,6 +22,7 @@ there are no nodes found.
 
 ```js
 const qsa = (s, p) => [...(p || document).querySelectorAll(s)]
+```
 
 ```js
 module.exports = { qs, qsa }
