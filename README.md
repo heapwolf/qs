@@ -1,6 +1,11 @@
 # SYNOPSIS
 A minimal query selector helper library.
 
+# INSTALL
+```bash
+npm install hxoht/qs
+```
+
 # API
 There are only two methods, `qs` and `qsa`.
 
